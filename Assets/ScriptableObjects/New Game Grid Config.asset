@@ -1,0 +1,323 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cf128f8f9ad8764fbe5c9ecb73b7ea5, type: 3}
+  m_Name: New Game Grid Config
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: startingLayout
+      Entry: 7
+      Data: 0|StartingEntityLayout, Assembly-CSharp
+    - Name: startingUnitLayout
+      Entry: 7
+      Data: 1|StartingUnitLayout, Assembly-CSharp
+    - Name: unitPositions
+      Entry: 7
+      Data: 2|System.Collections.Generic.List`1[[EntityStartPosition, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 9
+    - Name: 
+      Entry: 7
+      Data: 3|EntityStartPosition, Assembly-CSharp
+    - Name: type
+      Entry: 7
+      Data: 4|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: CombatUnit, Assembly-CSharp
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: ID
+      Entry: 3
+      Data: 0
+    - Name: gridPosition
+      Entry: 7
+      Data: UnityEngine.Vector3Int, UnityEngine.CoreModule
+    - Name: 
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 5|EntityStartPosition, Assembly-CSharp
+    - Name: type
+      Entry: 9
+      Data: 4
+    - Name: ID
+      Entry: 3
+      Data: 0
+    - Name: gridPosition
+      Entry: 7
+      Data: UnityEngine.Vector3Int, UnityEngine.CoreModule
+    - Name: 
+      Entry: 3
+      Data: 1
+    - Name: 
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 6|EntityStartPosition, Assembly-CSharp
+    - Name: type
+      Entry: 9
+      Data: 4
+    - Name: ID
+      Entry: 3
+      Data: 0
+    - Name: gridPosition
+      Entry: 7
+      Data: UnityEngine.Vector3Int, UnityEngine.CoreModule
+    - Name: 
+      Entry: 3
+      Data: 2
+    - Name: 
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 7|EntityStartPosition, Assembly-CSharp
+    - Name: type
+      Entry: 9
+      Data: 4
+    - Name: ID
+      Entry: 3
+      Data: 0
+    - Name: gridPosition
+      Entry: 7
+      Data: UnityEngine.Vector3Int, UnityEngine.CoreModule
+    - Name: 
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 3
+      Data: 1
+    - Name: 
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 8|EntityStartPosition, Assembly-CSharp
+    - Name: type
+      Entry: 9
+      Data: 4
+    - Name: ID
+      Entry: 3
+      Data: 0
+    - Name: gridPosition
+      Entry: 7
+      Data: UnityEngine.Vector3Int, UnityEngine.CoreModule
+    - Name: 
+      Entry: 3
+      Data: 1
+    - Name: 
+      Entry: 3
+      Data: 1
+    - Name: 
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 9|EntityStartPosition, Assembly-CSharp
+    - Name: type
+      Entry: 9
+      Data: 4
+    - Name: ID
+      Entry: 3
+      Data: 0
+    - Name: gridPosition
+      Entry: 7
+      Data: UnityEngine.Vector3Int, UnityEngine.CoreModule
+    - Name: 
+      Entry: 3
+      Data: 2
+    - Name: 
+      Entry: 3
+      Data: 1
+    - Name: 
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 10|EntityStartPosition, Assembly-CSharp
+    - Name: type
+      Entry: 9
+      Data: 4
+    - Name: ID
+      Entry: 3
+      Data: 0
+    - Name: gridPosition
+      Entry: 7
+      Data: UnityEngine.Vector3Int, UnityEngine.CoreModule
+    - Name: 
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 3
+      Data: 2
+    - Name: 
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 11|EntityStartPosition, Assembly-CSharp
+    - Name: type
+      Entry: 9
+      Data: 4
+    - Name: ID
+      Entry: 3
+      Data: 0
+    - Name: gridPosition
+      Entry: 7
+      Data: UnityEngine.Vector3Int, UnityEngine.CoreModule
+    - Name: 
+      Entry: 3
+      Data: 1
+    - Name: 
+      Entry: 3
+      Data: 2
+    - Name: 
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 12|EntityStartPosition, Assembly-CSharp
+    - Name: type
+      Entry: 9
+      Data: 4
+    - Name: ID
+      Entry: 3
+      Data: 0
+    - Name: gridPosition
+      Entry: 7
+      Data: UnityEngine.Vector3Int, UnityEngine.CoreModule
+    - Name: 
+      Entry: 3
+      Data: 2
+    - Name: 
+      Entry: 3
+      Data: 2
+    - Name: 
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: startingObstacleLayout
+      Entry: 7
+      Data: 13|StartingObstacleLayout, Assembly-CSharp
+    - Name: obstaclePositions
+      Entry: 7
+      Data: 14|System.Collections.Generic.List`1[[EntityStartPosition, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  gridDimensions: {x: 5, y: 5, z: 5}
+  gridCellSize: {x: 25, y: 25, z: 25}
+  playerOneStartingZone:
+    m_Position: {x: 0, y: 0, z: 0}
+    m_Size: {x: 10, y: 10, z: 1}
+  playerTwoStartingZone:
+    m_Position: {x: 0, y: 0, z: 9}
+    m_Size: {x: 10, y: 10, z: 1}

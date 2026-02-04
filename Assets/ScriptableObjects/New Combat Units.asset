@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90b2c921ff78c76428c721e5f5be4841, type: 3}
+  m_Name: New Combat Units
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  entries:
+  - name: CylinderFighter
+    ID: 0
+    prefab: {fileID: 1946383983036382, guid: b526a9f1791ebe54b8a7f6182d002911, type: 2}
+    maxMovement: 1
+    maxRange: 1
+    attackDamage: 1
+  - name: Brick
+    ID: 1
+    prefab: {fileID: 1020222174480542, guid: 2a419f435cbd8aa4f9845d0f4e992a5b, type: 2}
+    maxMovement: 1
+    maxRange: 1
+    attackDamage: 2
+  lastID: 1
